@@ -1,0 +1,14 @@
+Cow
+Shrimp
+Pig
+Rabbit
+Goat
+Crab
+Deer
+Ducks
+Hawk
+Eagle
+Raven
+Parrot
+Dove
+Turkey
