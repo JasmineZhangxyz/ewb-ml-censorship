@@ -1,2 +1,4 @@
 # ewb-ml-censorship
-Labels censored words as "political" vs "apolitical"
+Use ML to label censored words by the Chinese media as "political" vs "apolitical".
+
+Lab data is not included within this repo.
